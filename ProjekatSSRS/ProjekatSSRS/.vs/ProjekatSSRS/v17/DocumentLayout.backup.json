@@ -1,0 +1,126 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\sprdi\\source\\repos\\ProjekatSSRS\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{61BC0239-D27B-B624-4C98-4B985F2552C9}|ProjekatSSRS\\ProjekatSSRS.rptproj|C:\\Users\\sprdi\\source\\repos\\ProjekatSSRS\\ProjekatSSRS\\DecadeExpeditionsNumber.rdl||{420F4200-DD61-4785-81F3-52669CBC208E}",
+      "RelativeMoniker": "D:0:0:{61BC0239-D27B-B624-4C98-4B985F2552C9}|ProjekatSSRS\\ProjekatSSRS.rptproj|solutionrelative:ProjekatSSRS\\DecadeExpeditionsNumber.rdl||{420F4200-DD61-4785-81F3-52669CBC208E}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61BC0239-D27B-B624-4C98-4B985F2552C9}|ProjekatSSRS\\ProjekatSSRS.rptproj|C:\\Users\\sprdi\\source\\repos\\ProjekatSSRS\\ProjekatSSRS\\SuccessO2.rdl||{420F4200-DD61-4785-81F3-52669CBC208E}",
+      "RelativeMoniker": "D:0:0:{61BC0239-D27B-B624-4C98-4B985F2552C9}|ProjekatSSRS\\ProjekatSSRS.rptproj|solutionrelative:ProjekatSSRS\\SuccessO2.rdl||{420F4200-DD61-4785-81F3-52669CBC208E}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61BC0239-D27B-B624-4C98-4B985F2552C9}|ProjekatSSRS\\ProjekatSSRS.rptproj|C:\\Users\\sprdi\\source\\repos\\ProjekatSSRS\\ProjekatSSRS\\SherpaCompare.rdl||{420F4200-DD61-4785-81F3-52669CBC208E}",
+      "RelativeMoniker": "D:0:0:{61BC0239-D27B-B624-4C98-4B985F2552C9}|ProjekatSSRS\\ProjekatSSRS.rptproj|solutionrelative:ProjekatSSRS\\SherpaCompare.rdl||{420F4200-DD61-4785-81F3-52669CBC208E}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61BC0239-D27B-B624-4C98-4B985F2552C9}|ProjekatSSRS\\ProjekatSSRS.rptproj|C:\\Users\\sprdi\\source\\repos\\ProjekatSSRS\\ProjekatSSRS\\SuccessRateByAgeGroup.rdl||{420F4200-DD61-4785-81F3-52669CBC208E}",
+      "RelativeMoniker": "D:0:0:{61BC0239-D27B-B624-4C98-4B985F2552C9}|ProjekatSSRS\\ProjekatSSRS.rptproj|solutionrelative:ProjekatSSRS\\SuccessRateByAgeGroup.rdl||{420F4200-DD61-4785-81F3-52669CBC208E}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61BC0239-D27B-B624-4C98-4B985F2552C9}|ProjekatSSRS\\ProjekatSSRS.rptproj|C:\\Users\\sprdi\\source\\repos\\ProjekatSSRS\\ProjekatSSRS\\DeadliestPeaks.rdl||{420F4200-DD61-4785-81F3-52669CBC208E}",
+      "RelativeMoniker": "D:0:0:{61BC0239-D27B-B624-4C98-4B985F2552C9}|ProjekatSSRS\\ProjekatSSRS.rptproj|solutionrelative:ProjekatSSRS\\DeadliestPeaks.rdl||{420F4200-DD61-4785-81F3-52669CBC208E}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61BC0239-D27B-B624-4C98-4B985F2552C9}|ProjekatSSRS\\ProjekatSSRS.rptproj|C:\\Users\\sprdi\\source\\repos\\ProjekatSSRS\\ProjekatSSRS\\CommonTerminationReason.rdl||{420F4200-DD61-4785-81F3-52669CBC208E}",
+      "RelativeMoniker": "D:0:0:{61BC0239-D27B-B624-4C98-4B985F2552C9}|ProjekatSSRS\\ProjekatSSRS.rptproj|solutionrelative:ProjekatSSRS\\CommonTerminationReason.rdl||{420F4200-DD61-4785-81F3-52669CBC208E}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61BC0239-D27B-B624-4C98-4B985F2552C9}|ProjekatSSRS\\ProjekatSSRS.rptproj|C:\\Users\\sprdi\\source\\repos\\ProjekatSSRS\\ProjekatSSRS\\NationSuccess.rdl||{420F4200-DD61-4785-81F3-52669CBC208E}",
+      "RelativeMoniker": "D:0:0:{61BC0239-D27B-B624-4C98-4B985F2552C9}|ProjekatSSRS\\ProjekatSSRS.rptproj|solutionrelative:ProjekatSSRS\\NationSuccess.rdl||{420F4200-DD61-4785-81F3-52669CBC208E}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SherpaCompare.rdl [Design]",
+              "DocumentMoniker": "C:\\Users\\sprdi\\source\\repos\\ProjekatSSRS\\ProjekatSSRS\\SherpaCompare.rdl",
+              "RelativeDocumentMoniker": "ProjekatSSRS\\SherpaCompare.rdl",
+              "ToolTip": "C:\\Users\\sprdi\\source\\repos\\ProjekatSSRS\\ProjekatSSRS\\SherpaCompare.rdl [Design]",
+              "RelativeToolTip": "ProjekatSSRS\\SherpaCompare.rdl [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-10-13T22:13:06.496Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SuccessO2.rdl [Design]",
+              "DocumentMoniker": "C:\\Users\\sprdi\\source\\repos\\ProjekatSSRS\\ProjekatSSRS\\SuccessO2.rdl",
+              "RelativeDocumentMoniker": "ProjekatSSRS\\SuccessO2.rdl",
+              "ToolTip": "C:\\Users\\sprdi\\source\\repos\\ProjekatSSRS\\ProjekatSSRS\\SuccessO2.rdl [Design]",
+              "RelativeToolTip": "ProjekatSSRS\\SuccessO2.rdl [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-10-13T21:47:05.084Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DecadeExpeditionsNumber.rdl [Design]",
+              "DocumentMoniker": "C:\\Users\\sprdi\\source\\repos\\ProjekatSSRS\\ProjekatSSRS\\DecadeExpeditionsNumber.rdl",
+              "RelativeDocumentMoniker": "ProjekatSSRS\\DecadeExpeditionsNumber.rdl",
+              "ToolTip": "C:\\Users\\sprdi\\source\\repos\\ProjekatSSRS\\ProjekatSSRS\\DecadeExpeditionsNumber.rdl [Design]",
+              "RelativeToolTip": "ProjekatSSRS\\DecadeExpeditionsNumber.rdl [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-10-13T22:33:35.165Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SuccessRateByAgeGroup.rdl [Design]",
+              "DocumentMoniker": "C:\\Users\\sprdi\\source\\repos\\ProjekatSSRS\\ProjekatSSRS\\SuccessRateByAgeGroup.rdl",
+              "RelativeDocumentMoniker": "ProjekatSSRS\\SuccessRateByAgeGroup.rdl",
+              "ToolTip": "C:\\Users\\sprdi\\source\\repos\\ProjekatSSRS\\ProjekatSSRS\\SuccessRateByAgeGroup.rdl [Design]",
+              "RelativeToolTip": "ProjekatSSRS\\SuccessRateByAgeGroup.rdl [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-10-13T21:17:22.885Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DeadliestPeaks.rdl [Design]",
+              "DocumentMoniker": "C:\\Users\\sprdi\\source\\repos\\ProjekatSSRS\\ProjekatSSRS\\DeadliestPeaks.rdl",
+              "RelativeDocumentMoniker": "ProjekatSSRS\\DeadliestPeaks.rdl",
+              "ToolTip": "C:\\Users\\sprdi\\source\\repos\\ProjekatSSRS\\ProjekatSSRS\\DeadliestPeaks.rdl [Design]",
+              "RelativeToolTip": "ProjekatSSRS\\DeadliestPeaks.rdl [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-10-13T20:16:48.749Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CommonTerminationReason.rdl [Design]",
+              "DocumentMoniker": "C:\\Users\\sprdi\\source\\repos\\ProjekatSSRS\\ProjekatSSRS\\CommonTerminationReason.rdl",
+              "RelativeDocumentMoniker": "ProjekatSSRS\\CommonTerminationReason.rdl",
+              "ToolTip": "C:\\Users\\sprdi\\source\\repos\\ProjekatSSRS\\ProjekatSSRS\\CommonTerminationReason.rdl [Design]",
+              "RelativeToolTip": "ProjekatSSRS\\CommonTerminationReason.rdl [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-10-13T20:46:26.922Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "NationSuccess.rdl [Design]",
+              "DocumentMoniker": "C:\\Users\\sprdi\\source\\repos\\ProjekatSSRS\\ProjekatSSRS\\NationSuccess.rdl",
+              "RelativeDocumentMoniker": "ProjekatSSRS\\NationSuccess.rdl",
+              "ToolTip": "C:\\Users\\sprdi\\source\\repos\\ProjekatSSRS\\ProjekatSSRS\\NationSuccess.rdl [Design]",
+              "RelativeToolTip": "ProjekatSSRS\\NationSuccess.rdl [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-10-13T13:37:40.213Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
